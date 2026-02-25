@@ -10,7 +10,7 @@ from __future__ import annotations
 import json
 from pathlib import Path
 
-from symbolic import (
+from symbolic_neural_networks import (
     build_lstm_model,
     build_mlp_model,
     build_gcn_model,
